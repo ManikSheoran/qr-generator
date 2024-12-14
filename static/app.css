@@ -1,0 +1,36 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #f5efff;
+}
+
+.container {
+  max-width: 600px;
+}
+
+.footer {
+  background-color: rgb(162, 148, 249);
+  color: #0b004f;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.logo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 30px auto;
+}
+
+.form-control {
+  margin-bottom: 15px;
+}
+
+.btn-primary {
+  background-color: #0b004f;
+  border-color: #0b004f;
+  font-weight: bold;
+}
